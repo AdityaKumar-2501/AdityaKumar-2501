@@ -1,4 +1,4 @@
-![logo](https://github.com/AdityaKumar-2501/AdityaKumar-2501/blob/main/LinkedIn%20Banner.png)
+![logo]([https://github.com/AdityaKumar-2501/AdityaKumar-2501/blob/main/LinkedIn%20Banner.png](https://github.com/AdityaKumar-2501/AdityaKumar-2501/blob/main/github_banner.png))
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 

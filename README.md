@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<!-- Leetcode Stats -->
+<!-- start of Leetcode Stats -->
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
@@ -27,9 +27,9 @@
 <br />
 
 
-<!-- Leetcode Stats -->
+<!-- end of Leetcode Stats -->
 
-<img align="right" alt="coding" width="400" hieght="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Hp1CkPc2iIk_Da765SdROXHqnPwhnM_Bo0g_-HQtR-fjyPOIlrFyKNi8Rph5JMDP04o&usqp=CAU">
+<img align="right" alt="coding" width="400" hieght="200"  src="https://i.giphy.com/0lGd2OXXHe4tFhb7Wh.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar-2501&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar-2501" /> </p>
 

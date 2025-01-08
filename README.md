@@ -23,8 +23,6 @@
 </p>
 
 <br />
-<br />
-<br />
 
 
 <!-- end of Leetcode Stats -->

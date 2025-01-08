@@ -1,16 +1,39 @@
-![logo](https://github.com/AdityaKumar-2501/AdityaKumar-2501/blob/main/github_banner.png)
- <h1 align="center">Hi 👋, I'm Aditya Kumar</h1> 
+<!-- ![logo](https://github.com/AdityaKumar-2501/AdityaKumar-2501/blob/main/github_banner.png) -->
+ <!-- <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>  -->
 <!--- <h3 align="center">A passionate Full stack developer</h3>  --->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+%F0%9F%91%8B+%2C+I'm+Aditya+Kumar.;A+Passionate+web+developer.;And+a+Problem+Solver;Always+exited+to+learn+new+things.&center=true&width=500&height=50">
   </a>
 </p>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+
+<!-- Leetcode Stats -->
+
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src= "https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="200" width="200" /></a>
+ <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src= "https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/aditya_kumar_dev?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
+<br />
+<br />
+<br />
+
+
+<!-- Leetcode Stats -->
+
+<img align="right" alt="coding" width="400" hieght="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Hp1CkPc2iIk_Da765SdROXHqnPwhnM_Bo0g_-HQtR-fjyPOIlrFyKNi8Rph5JMDP04o&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar-2501&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar-2501" /> </p>
 
-- 🔭 I’m currently Studying **Master in Computer Application**
+- 🔭 I’m currently Studying **Masters in Computer Application**
 
 - 🌱 I’m currently learning **MERN Stack and Solving DSA questions**
 

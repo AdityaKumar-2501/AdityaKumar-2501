@@ -27,7 +27,7 @@
 
 <!-- end of Leetcode Stats -->
 
-<img align="right" alt="coding" width="400" hieght="200"  src="https://i.giphy.com/0lGd2OXXHe4tFhb7Wh.webp" />
+<!-- <img align="right" alt="coding" width="400" hieght="200"  src="https://i.giphy.com/0lGd2OXXHe4tFhb7Wh.webp" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar-2501&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar-2501" /> </p>
 
